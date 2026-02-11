@@ -198,6 +198,72 @@ All AI-generated insights were critically evaluated and interpreted to ensure bu
 
 
 
+
+# 📊 Dashboard Preview
+
+
+
+## 🏢 1. Sales Overview
+
+Executive snapshot of total performance, brand contribution, and monthly trends.
+
+<img src="Sales Overview.jpg" width="900"/>
+
+
+
+## 🌍 2. Provincial Sales Analysis
+
+Geographical distribution, regional trends, and top-performing cities.
+
+<img src="Provincial Sales Analysis.jpg" width="900"/>
+
+
+
+## 🎯 3. Target vs Sales Performance
+
+Product-level comparison, variance analysis, and monthly deviation tracking.
+
+<img src="Target vs Sales Performance.jpg" width="900"/>
+
+
+
+## 👥 4. Customer Analysis
+
+Customer acquisition trends, retention metrics, churn rate, and distributor performance.
+
+<img src="Customer Analysis.jpg" width="900"/>
+
+
+
+## 🧾 5. Customer Detail (Drill-Through View)
+
+Micro-level customer insights including lifetime value, recency, and top products.
+
+<img src="Customer Detail.jpg" width="900"/>
+
+
+
+# 🤖 AI-Driven Insights (Key Influencers)
+
+
+
+### 🔍 Customer Retention Drivers
+
+<img src="AI - Customer Retention.jpg" width="900"/>
+
+
+
+### 📈 High Sales Performance Drivers
+
+<img src="AI - High Sales Performance.jpg" width="900"/>
+
+
+
+### 📊 Sales Target Achievement Drivers
+
+<img src="AI - Achievement of Sales Targets.jpg" width="900"/>
+
+
 ## 🧠 Business Insights Derived
 
 This dashboard enables the identification of:
